@@ -1,0 +1,7 @@
+Tugas PKK
+website rental mobil
+-mendesain website
+-membuat frontend
+-membuat backend
+-menggabungkan frontend dan backend
+-mebuat database
